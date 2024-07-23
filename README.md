@@ -1,1 +1,1 @@
-# Asp
+Accompany code repository for manusript "Residential exposure to Aspergillus spp. is associated with exacerbations in COPD" (under review). All data are available in the "Data" folder, and the analysis can be found in the "Code" folder.
